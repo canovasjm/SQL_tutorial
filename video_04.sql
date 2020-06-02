@@ -43,5 +43,3 @@ ALTER TABLE producto CHANGE precios precio DECIMAL(18, 2) NOT NULL;
 
 # delete a table
 DROP TABLE producto;
-
-
